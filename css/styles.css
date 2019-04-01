@@ -1,0 +1,23 @@
+#menu {
+  display: none;
+}
+
+img#mainlogo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 240px;
+  height: 240px;
+}
+
+#lbannertxt {
+  text-align: left;
+}
+
+#rbannertxt {
+  text-align: right;
+}
+
+button {
+  width: 100%;
+}
